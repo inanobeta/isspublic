@@ -1,7 +1,7 @@
 ISS Public
 ====
 
-ISS Publicとは・・・・
+ISS Publicとは・・・・・
 
 ## Problem
 
@@ -19,5 +19,3 @@ ISS Publicとは・・・・
 
 
 ## Business Model
-
-
